@@ -1,0 +1,1 @@
+{"name":"lotus-garden-final","private":true,"scripts":{"web":"node server.mjs"},"engines":{"node":">=18"}}
